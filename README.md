@@ -16,7 +16,7 @@ git clone https://github.com/1uphealth/1upwebapp.git
 
 2. Add your API keys to app server session, ex. `vim ~/.bashrc` or `~/.bash_profile`
 ```
-export ONEUP_DEMOWEBAPPLOCAL_CLIENTSECRET="clientsecretclientsecret"
+export ONEUP_DEMOWEBAPPLOCAL_CLIENTSECRET="xvCEuGVWfdslFyz4znPuKSmoy4qUiD4N"
 export ONEUP_DEMOWEBAPPLOCAL_CLIENTID="clientidclientid"
 ```
 save this
